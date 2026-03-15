@@ -174,6 +174,8 @@ This project is licensed under the **MIT License**.
 
 👩‍💻 Author
 
-**Hemalatha** 
-GitHub: https://github.com/hemapoojari/wildlife11 
+**Hemalatha**   
+
+GitHub: https://github.com/hemapoojari/wildlife11  
+
 Developer of the Wildlife Monitoring System
